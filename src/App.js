@@ -4,13 +4,13 @@ import "./App.css";
 import Form from './Form'
 
 const presentTeamMember = [
-  { id: uuid(), fname: "Austin", lname: "Lynes", email: "austin@lambda.com", role: "team lead" },
+  { id: uuid(), fname: "Ben", lname: "Berger", email: "ben@lambda.com", role: "team lead" },
   { id: uuid(), fname: "Joseph", lname: "Paguia", email: "joseph@lambda.com", role: "frontend engineer" },
-  { id: uuid(), fname: "Matthew", lname: "Heideman" , email: "matthew@lambda.com", role: "frontend engineer"},
-  { id: uuid(), fname: "Simon", lname: "Huang" , email: "simon@lambda.com", role: "frontend engineer" },
-  { id: uuid(), fname: "Troy", lname: "Schenumm", email: "troy@lambda.com", role: "frontend engineer" },
-  { id: uuid(), fname: "Dakota ", lname: "Marcinak", email: "dakotah@lambda.com", role: "frontend engineer" },
-  { id: uuid(), fname: "Vickie", lname: "Nelson", email: "vickie@lambda.com", role: "frontend engineer" },
+  { id: uuid(), fname: "Alex", lname: "S" , email: "alex@lambda.com", role: "frontend engineer"},
+  { id: uuid(), fname: "Emily", lname: "Low" , email: "emily@lambda.com", role: "frontend engineer" },
+  { id: uuid(), fname: "Jack", lname: "Carpentier", email: "jack@lambda.com", role: "frontend engineer" },
+  { id: uuid(), fname: "Jayvon", lname: "Harville", email: "jayvon@lambda.com", role: "frontend engineer" },
+  { id: uuid(), fname: "Jonathan", lname: "Han", email: "jonathan@lambda.com", role: "frontend engineer" },
 ];
 
 function App() {
